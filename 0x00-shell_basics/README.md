@@ -1,1 +1,1 @@
-where am i
+Display teh content of your current directory in along format
